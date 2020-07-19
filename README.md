@@ -1,6 +1,7 @@
 # Basic-React
 
-Root directory/index.html
+### Root directory
+/index.html
 we start with html doc
 title "react"
 we build a simple shopping list with <script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
